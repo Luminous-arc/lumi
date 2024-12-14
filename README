@@ -42,8 +42,7 @@ Lumi is a versatile AI system designed to provide natural interactions, emotiona
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Lumi-AI.git
-   cd Lumi-AI
+   git clone https://github.com/Luminous-arc/lumiARC
    ```
 
 2. Install dependencies:
